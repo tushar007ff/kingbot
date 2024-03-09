@@ -36,7 +36,7 @@ ALIVE_ANIMATION = [
 
 FIRST_PART_TEXT = "✨ *ʜᴇʟʟᴏ* `{}` . . ."
 
-PM_START_TEXT = "✨ *ɪ ᴀᴍ 𝐅𝝰‌i𝐫𝘆, @warzone_123support ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ And Music 🚀  *"
+PM_START_TEXT = "✨ *ɪ ᴀᴍ 𝐤𝐢𝐧𝐠, @warzone_12𝟑 ʀᴏʙᴏᴛ ᴡʜɪᴄʜ ᴄᴀɴ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴡɪᴛʜ ʜᴜɢᴇ ɢʀᴏᴜᴘ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ And Music 🚀  *"
 
 START_BTN = [
     [
@@ -85,7 +85,7 @@ ALIVE_BTN = [
 ]
 
 HELP_STRINGS = """
-🫧 *KAI X MEI* 🫧
+🫧 *KING BOT* 🫧
 
 ☉ *Here, you will find a list of all the available commands.*
 
